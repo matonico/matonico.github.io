@@ -20,6 +20,10 @@ html {
     color:aquamarine;
   }
   
+  img{
+    width: 100%;
+    height: auto;
+  }
   
   html {
     background-color: #3f3c3e;
